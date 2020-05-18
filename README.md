@@ -1,2 +1,2 @@
-# algo-vision
+# Algo Vision
 Visualize your algorithms in work
